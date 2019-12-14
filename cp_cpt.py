@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# This is a backup and crytp/desencrypt software
-
 # written in pure python and usual libs
 # BORN TO CODE 
 
