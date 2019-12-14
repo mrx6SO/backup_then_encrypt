@@ -192,7 +192,7 @@ def done_crypt():
 
                 pass
  
-            elif Tfiles == os.path.join(os.getcwd(), sys.argv[0]):
+            elif Tfiles == os.path.join(encFiles, sys.argv[0]):
 
                 pass
 
@@ -275,7 +275,7 @@ def main():
 
         except:
 
-            break
+            return
             
     
 if __name__ == "__main__":
